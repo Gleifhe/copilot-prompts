@@ -20,7 +20,9 @@ instructions/     — Instruction files (.instructions.md) → auto-loaded by pa
 
 ### Skills
 
-*None yet.*
+| Name | Command | Description |
+|---|---|---|
+| [build-log4j](skills/build-log4j/SKILL.md) | `/build-log4j` | Fully automated setup and build of Apache Log4j 2.25.4 — installs JDK 17, Maven, VS Code extensions, clones repo, and compiles all 41 modules. Includes [known issues reference](skills/build-log4j/references/known-issues.md). |
 
 ### Instructions
 
