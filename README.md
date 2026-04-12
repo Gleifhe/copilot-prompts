@@ -17,6 +17,7 @@ instructions/     — Instruction files (.instructions.md) → auto-loaded by pa
 | Name | Command | Description |
 |---|---|---|
 | [build-log4j](prompts/build-log4j.prompt.md) | `/build-log4j` | Build Apache Log4j 2.25.4 from source on Windows — installs JDK 17, Maven, VS Code extensions, and compiles all 41 modules |
+| [threat-model](prompts/threat-model.prompt.md) | `/threat-model` | Generate a comprehensive threat model with STRIDE analysis, trust boundaries, attack trees, risk register, and remediation roadmap — delivers HTML and Markdown briefing |
 
 ### Skills
 
